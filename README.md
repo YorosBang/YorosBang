@@ -1,11 +1,21 @@
-<h1 align="center">👋 Hallo Zusammen, mein Name ist YorosBang</h1>
-<h3 align="center">☕ Ich bin ein Hobbymäßiger Java Entwickler seit ca 6 Jahren.</h3>
+<h1 align="center">👋 Hello together, my Name is YorosBang</h1>
+<h3 align="center">☕ I have been programming for about 6 years now using various frameworks, tools and programming languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yorosbang&label=Profile%20views&color=0e75b6&style=flat" alt="yorosbang" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorosbang" alt="yorosbang" /></a> </p>
 
-- 🌱 Zurzeit lerne ich die Programmiersprache **Rust**
+- 🔭 I'm currently working on various private projects or with friends on stray projects. **@Lumania.net**
+
+- 🌱 I'm currently learning the programming language **Rust**
+
+- 👯 I’m looking to be hired for **Java and Minecraft based Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/YorosBang/](https://github.com/YorosBang/)
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **Discord: yorosbang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
