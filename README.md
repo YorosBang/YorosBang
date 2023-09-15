@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorosbang" alt="yorosbang" /></a> </p>
 
-- 🔭 I'm currently working on various private projects or with friends on stray projects. **@Lumania.net**
+- 🔭 I'm currently working on various private projects or with friends on stray **projects**.
 
 - 🌱 I'm currently learning the programming language **Rust**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **Discord: yorosbang**
+- 📫 Contact me through **Discord: yorosbang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
